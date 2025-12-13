@@ -1,44 +1,36 @@
-# FlagMasterGame | Assignment#5 for Web Programming Course (Fridays 09:00 - 12:00)
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Welcome to FlagMasterGame, an interactive web game that challenges players to match countries with their respective flags. This educational tool is designed to help improve geographical knowledge and flag recognition in a fun and engaging way.
+## Getting Started
 
-## Project Structure
+First, run the development server:
 
-The project is organized into three main files:
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-- `index.html` - The main HTML document that provides the structural layout of the game.
-- `styles.css` - The stylesheet file responsible for all the visual styling of the game.
-- `script.js` - The JavaScript file that contains all the logic for game functionality including starting the game, shuffling questions, and handling user interactions.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Setup
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-To get the game running on your local machine, follow these steps:
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-1. Clone this repository to your local machine using the command:
-2. Navigate to the project directory:
-3. Open the `index.html` file in your web browser.
+## Learn More
 
-## How to Play
+To learn more about Next.js, take a look at the following resources:
 
-- Click the "Start Game" button to begin.
-- You will be presented with two flags and must choose which one corresponds to the given country name.
-- If you select the correct flag, you will proceed to the next question.
-- The game tracks your correct answers, mistakes, and time spent.
-- After three mistakes, the game ends, or you can try to complete all questions.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Features
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-- Randomly shuffled flags and countries for each new game session.
-- Interactive feedback for each correct or incorrect answer.
-- Timer to track how long you take to complete the game.
-- Responsive design that works on desktops and mobile devices.
+## Deploy on Vercel
 
-## Contributions
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
-
-## Author
-
-- Azizbek (@azizbekdevuz on GitHub)
-
-Enjoy the game and learn more about the world's flags and countries!
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
