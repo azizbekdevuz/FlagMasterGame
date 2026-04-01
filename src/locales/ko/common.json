@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "title_prefix": "플래그",
+    "title_suffix": "마스터",
+    "subtitle": "궁극의 지리 지식 테스트. 국기를 식별하고, 기록을 깨고, 글로벌 리더보드에 오르세요.",
+    "system_online": "시스템: 온라인",
+    "warp_home": "홈으로 이동"
+  },
+  "modes": {
+    "classic": {
+      "title": "클래식",
+      "desc": "기본 모드. 시간 제한 없음. 자신의 속도로 학습하세요.",
+      "action": "초기화"
+    },
+    "time_attack": {
+      "title": "타임 어택",
+      "desc": "60초. 무한한 국기. 얼마나 빠르신가요?",
+      "action": "러시 시작"
+    },
+    "hardcore": {
+      "title": "하드코어",
+      "desc": "목숨 3개. 증가하는 난이도. 진정한 마스터를 위해.",
+      "action": "도전"
+    }
+  },
+  "game": {
+    "question": "{{country}}의 국기는 무엇입니까?",
+    "select_prompt": "올바른 국기를 선택하세요",
+    "game_over": "게임 오버",
+    "score": "최종 점수",
+    "play_again": "다시 하기",
+    "main_menu": "메인 메뉴",
+    "hint_used": "잘못된 옵션 하나가 제거되었습니다!",
+    "difficulty": "난이도",
+    "question_number": "문제"
+  },
+  "achievements": {
+    "title": "업적",
+    "unlocked": "해제됨",
+    "locked": "잠김"
+  },
+  "statistics": {
+    "title": "통계",
+    "total_games": "총 게임",
+    "best_score": "최고 점수",
+    "best_streak": "최고 연속",
+    "average_accuracy": "평균 정확도",
+    "total_correct": "총 정답",
+    "total_incorrect": "총 오답"
+  },
+  "settings": {
+    "title": "설정",
+    "sound": "사운드 효과",
+    "theme": "테마"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "title_prefix": "FLAG",
+    "title_suffix": "MASTER",
+    "subtitle": "Geografik bilimingizni sinovdan o'tkazing. Bayroqlarni toping, vaqt bilan bellashing va reytingda ko'tariling.",
+    "system_online": "TIZIM: ISHLAMOQDA",
+    "warp_home": "BOSH SAHIFA"
+  },
+  "modes": {
+    "classic": {
+      "title": "Klassik",
+      "desc": "Standart rejim. Vaqt chegarasi yo'q. O'z tezligingizda o'rganing.",
+      "action": "Boshlash"
+    },
+    "time_attack": {
+      "title": "Vaqt Hujumi",
+      "desc": "60 soniya. Cheksiz bayroqlar. Qanchalik tezsiz?",
+      "action": "Tezkor Boshlash"
+    },
+    "hardcore": {
+      "title": "Hardkor",
+      "desc": "3 ta imkoniyat. Qiyinlashib boruvchi darajalar. Haqiqiy ustalar uchun.",
+      "action": "Sinov"
+    }
+  },
+  "game": {
+    "question": "{{country}} bayrog'i qaysi?",
+    "select_prompt": "To'g'ri bayroqni tanlang",
+    "game_over": "O'yin Tugadi",
+    "score": "Yakuniy Natija",
+    "play_again": "Qayta O'ynash",
+    "main_menu": "Asosiy Menyu",
+    "hint_used": "Noto'g'ri variant olib tashlandi!",
+    "difficulty": "Qiyinlik",
+    "question_number": "Savol"
+  },
+  "achievements": {
+    "title": "Yutuqlar",
+    "unlocked": "Ochilgan",
+    "locked": "Yopilgan"
+  },
+  "statistics": {
+    "title": "Statistika",
+    "total_games": "Jami O'yinlar",
+    "best_score": "Eng Yaxshi Natija",
+    "best_streak": "Eng Yaxshi Seriya",
+    "average_accuracy": "O'rtacha Aniqlik",
+    "total_correct": "Jami To'g'ri",
+    "total_incorrect": "Jami Noto'g'ri"
+  },
+  "settings": {
+    "title": "Sozlamalar",
+    "sound": "Ovoz Effektlari",
+    "theme": "Mavzu"
+  }
+}

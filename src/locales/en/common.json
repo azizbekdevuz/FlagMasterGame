@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "title_prefix": "FLAG",
+    "title_suffix": "MASTER",
+    "subtitle": "The ultimate test of geographical knowledge. Identify flags, beat the clock, and climb the global leaderboards.",
+    "system_online": "SYSTEM: ONLINE",
+    "warp_home": "WARP HOME"
+  },
+  "modes": {
+    "classic": {
+      "title": "Classic",
+      "desc": "Standard mode. No time limit. Learn at your own pace.",
+      "action": "Initialize"
+    },
+    "time_attack": {
+      "title": "Time Attack",
+      "desc": "60 Seconds. Infinite Flags. How fast are you?",
+      "action": "Start Rush"
+    },
+    "hardcore": {
+      "title": "Hardcore",
+      "desc": "3 Lives. Increasing difficulty. For true masters.",
+      "action": "Challenge"
+    }
+  },
+  "game": {
+    "question": "Which flag belongs to {{country}}?",
+    "select_prompt": "Select the correct flag",
+    "game_over": "Game Over",
+    "score": "Final Score",
+    "play_again": "Play Again",
+    "main_menu": "Main Menu",
+    "hint_used": "One incorrect option removed!",
+    "difficulty": "Difficulty",
+    "question_number": "Question"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "unlocked": "Unlocked",
+    "locked": "Locked"
+  },
+  "statistics": {
+    "title": "Statistics",
+    "total_games": "Total Games",
+    "best_score": "Best Score",
+    "best_streak": "Best Streak",
+    "average_accuracy": "Average Accuracy",
+    "total_correct": "Total Correct",
+    "total_incorrect": "Total Incorrect"
+  },
+  "settings": {
+    "title": "Settings",
+    "sound": "Sound Effects",
+    "theme": "Theme"
+  }
+}
